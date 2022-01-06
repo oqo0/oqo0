@@ -1,3 +1,3 @@
 ![alt text](https://www.codewars.com/users/oqpin/badges/large)
 
-Discord: Pin#1815
+Discord: Pin#9999
