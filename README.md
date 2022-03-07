@@ -1,2 +1,2 @@
-As-salamu alaykum internet :wave:  
+Shalom internet :wave:  
 My name is Roman and I am a developer from Moscow.
