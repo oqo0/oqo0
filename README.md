@@ -1,2 +1,4 @@
-Shalom internet :wave:.  
-<img align="right" src="https://komarev.com/ghpvc/?username=oqo0">
+<div>
+  <td valign="top">Shalom internet :wave:.</td>
+  <td valign="top"><img align="right" src="https://komarev.com/ghpvc/?username=oqo0"></td>
+<div>
